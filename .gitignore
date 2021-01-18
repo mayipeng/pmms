@@ -1,0 +1,3 @@
+# Project exclude paths
+/pmms-api/target/
+/pmms-common/target/
